@@ -1,0 +1,9 @@
+img {
+  width: 100%;
+  height: 100vh;
+  object-fit: cover;
+}
+
+.col-5.pic {
+  padding: 0;
+}
